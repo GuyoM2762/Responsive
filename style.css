@@ -25,3 +25,6 @@ header{
 .header-content h2{
     font-size: 4vmin;
 }
+.line{
+    width: 150px;
+}
