@@ -14,6 +14,7 @@ ul{
 .active{
     color: #fc063b;
     text-decoration: underline;
+    font-weight: bold;
 }
 
 .navbar{
