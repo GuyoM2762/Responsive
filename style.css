@@ -7,6 +7,14 @@
 a{
     text-decoration: none;
 }
+
+.navbar{
+    position: absolute;
+    display: flex;
+
+
+}
+
 header{
     width: 100vw;
     height: 100vh;
@@ -42,5 +50,5 @@ header{
     background-color: #fc063b;
     border-radius: 30px;
     color: whitesmoke;
-    
+
 }
