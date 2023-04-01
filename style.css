@@ -40,4 +40,5 @@ header{
 .ctn{
     padding: 8px 15px;
     background-color: #fc063b;
+    border-radius: 30px;
 }
