@@ -11,6 +11,9 @@ ul{
     list-style: none;
 
 }
+.active{
+    color: #fc063b;
+}
 
 .navbar{
     position: absolute;
