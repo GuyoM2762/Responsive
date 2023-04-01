@@ -30,4 +30,5 @@ header{
     height: 4px;
     background-color: #fc063b;
     margin: 10px auto;
+    border-radius: 5px;
 }
