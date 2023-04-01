@@ -9,6 +9,7 @@ a{
 }
 ul{
     list-style: none;
+
 }
 
 .navbar{
@@ -21,10 +22,11 @@ ul{
     padding: 20px;
     color: whitesmoke;
 
-
+}
+.nav-links{
+    display: flex;
 
 }
-
 header{
     width: 100vw;
     height: 100vh;
