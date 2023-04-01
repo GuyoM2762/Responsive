@@ -22,3 +22,6 @@ header{
     color: whitesmoke;
     text-align: center;
 }
+.header-content h2{
+    font-size: 4vmin;
+}
