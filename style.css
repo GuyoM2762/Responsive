@@ -32,3 +32,6 @@ header{
     margin: 10px auto;
     border-radius: 5px;
 }
+.header-content h1{
+    font-size: 7vmin;
+}
