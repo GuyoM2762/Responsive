@@ -28,6 +28,9 @@ ul{
     align-items: center;
 
 }
+.nav-links li{
+    margin: 0 30px;
+}
 header{
     width: 100vw;
     height: 100vh;
