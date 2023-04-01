@@ -81,5 +81,9 @@ header{
     .logo{
         position: absolute;
         top: 30px;
+        left: 30px;
+    }
+    .nav-links{
+        flex-direction: column;
     }
 }
