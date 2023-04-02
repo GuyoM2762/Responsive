@@ -73,6 +73,13 @@ header{
     color: whitesmoke;
 
 }
+.menu-btn{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 40px;
+    cursor: pointer;
+}
 @media only screen and (max-width:850px){
     .navbar{
         padding: 0;
