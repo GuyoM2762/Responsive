@@ -56,8 +56,8 @@ header{
 }
 .line{
     width: 150px;
-    height: 4px;
-    background-color: #fc063b;
+    height: 4p;
+    background-color: red;
     margin: 10px auto;
     border-radius: 5px;
 }
@@ -100,6 +100,7 @@ header{
     }
     .mobile-menu{
         margin-top: 0px;
+        
     }
     .nav-links li{
         margin: 30px auto;
